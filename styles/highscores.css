@@ -1,0 +1,15 @@
+#finalScoreList {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+}
+
+.high-score {
+    margin-bottom: 0.5rem;
+    font-size: 2.8rem;
+    color: #7ab6eb;
+}
+
+.high-score:hover {
+    transform: scale(1.025);
+}
